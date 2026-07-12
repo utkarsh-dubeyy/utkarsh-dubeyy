@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Utkarsh Dubey 👋
 
-<!--
-**utkarsh-dubeyy/utkarsh-dubeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer.
 
-Here are some ideas to get you started:
+## What I'm Building
+- Web Development Projects
+- Java Applications
+- Problem Solving with DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git & GitHub
+
+## Currently Learning
+- MERN Stack
+- DSA in Java
