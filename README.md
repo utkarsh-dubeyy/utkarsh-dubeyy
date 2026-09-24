@@ -3,11 +3,11 @@
 CS graduate (KIIT, 2026) learning software development from the ground up and documenting every step.
 
 ### Where I am now
-Java basics (started 25th September, 2026)
+Web development basics (started 25th September, 2026)
 
 ### The plan (Sep 2026 – Apr 2027)
-- DSA & OOP in Java
 - Full-stack web development: HTML, CSS, JavaScript, Node.js, Express, SQL, MongoDB, React
+- DSA & OOP in Java, alongside web development
 - My own full-stack project, live on the internet
 
 ### Looking for
